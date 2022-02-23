@@ -1,0 +1,9 @@
+[package]
+name = "example"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+egistec_eh575 = { path = "../" }
+promptly = "0.3.0"
+tiff = "0.7.1"
